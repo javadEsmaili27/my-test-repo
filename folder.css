@@ -1,0 +1,29 @@
+*{ padding: 0;
+    margin: 0;
+}
+.icon{width: 40px;
+    height: 40px;
+    background-color: darkred;
+border-radius: 50%;
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+}
+.font{width: 500px;
+    height: 500px;
+background-color: azure;
+display: flex;
+text-align: center;
+
+align-items: center;
+justify-content: center
+
+
+}
+.lorem{width: 80%;
+  
+  
+    
+
+}
