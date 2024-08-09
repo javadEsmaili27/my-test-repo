@@ -1,0 +1,24 @@
+:root{ --root-Warning:red;
+    --root-primari:blue;
+    --root-danger:yellow;
+    --root-bold:2rem;
+    --root-normal:1.5rem;
+    --root-small:1rem;
+
+}
+.box1{width: 100px;
+    height: 100px;
+    background-color: var(--root-danger);
+font-size: var(--root-small);
+}
+.box2{width: 200px;
+    height: 200px;
+    background-color: var(--root-primari);
+font-size: var(--root-normal);
+}
+.box3{width: 300px;
+    height: 300px;
+    background-color: var(--root-Warning);
+   font-size: var(--root-bold);
+
+}

@@ -1,0 +1,187 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-size: 16px;
+}
+
+.container {
+  background-color: navy;
+  width: 900px;
+  height: 800px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  background-color: rgb(68, 42, 163);
+  width: 600px;
+  height: 400px;
+}
+.title {
+  display: flex;
+  height: 40px;
+}
+
+.devfinder {
+  font: bold;
+  font-size: 1.3rem;
+  width: 50%;
+  color: aliceblue;
+}
+.icon {
+  width: 50%;
+
+  display: flex;
+  justify-content: flex-end;
+}
+.header {
+  height: 50px;
+  border-radius: 20px;
+  background-color: azure;
+  margin-top: 20px;
+  display: flex;
+}
+.search-icon {
+  width: 50%;
+  background-color: brown;
+  height: 100%;
+}
+.button {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+.button-search {
+  width: 90px;
+  height: 35px;
+  background-color: aqua;
+  border-radius: 10px;
+  margin-top: 8px;
+
+  margin-right: 10px;
+  color: rgb(128, 140, 151);
+}
+
+.discrption {
+  display: flex;
+  flex-direction: row-reverse;
+}
+.img {
+  width: 30%;
+  height: 290px;
+  background-color: aquamarine;
+}
+.number {
+  display: flex;
+  flex-direction: column-reverse;
+  width: 70%;
+}
+
+.number1 {
+  width: 100%;
+  height: 110px;
+  background-color: yellow;
+}
+.number3 {
+  width: 100%;
+  height: 72px;
+  background-color: rgb(17, 12, 48);
+  border-radius: 20px;
+}
+.text{width: 100%;
+    height: 36px;
+   
+    display: flex;
+    justify-content: space-around;
+    color: aliceblue;
+
+}
+.numeral{width: 100%;
+height: 36px; 
+color: aliceblue;
+display: flex;
+justify-content: space-around;
+margin-top: -10px;
+}
+
+
+
+
+
+
+
+.number2 {
+  width: 100%;
+  height: 110px;
+  background-color: rgb(16, 77, 128);
+}
+.loc-not{width: 100%
+    ;height: 50%;
+    background-color: red;
+    display: flex;
+    justify-content: space-around;
+
+}
+.location{color: aliceblue;
+  font-family: 'Times New Roman', Times, serif;
+
+
+}
+.not{color: aliceblue;
+  margin-top: 10px;
+
+
+}
+.https-git{display: flex;
+  justify-content: space-around;
+
+
+}
+.git{color: aliceblue;
+margin-right: 28px;
+}
+
+
+
+
+
+.image-cat {
+  border-radius: 50%;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+.the-octo {
+  width: 100%;
+  height: 70px;
+  background-color: rgb(150, 106, 140);
+  display: flex;
+}
+.the-octocat {
+  width: 50%;
+  height: 70px;
+  background-color: rgb(219, 32, 63);
+}
+.p-theoctocat {
+  font-size: 1.5rem;
+  font: bold;
+  color: white;
+  padding: 15px;
+}
+.join {
+  background-color: rgb(40, 136, 104);
+  width: 50%;
+  height: 45px;
+}
+.joined {
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+  padding: 18px 18px;
+  margin-right: 15px;
+}
+
+.this {
+  padding: 15px;
+  color: beige;
+}
