@@ -1,0 +1,46 @@
+.joinBtn {
+    width: 200px;
+    height: 200px;
+    background-color: gold;
+    cursor: pointer;
+      transition: 5s;}
+    .joinBtn:hover {
+        background-color: bisque;
+        width: 300px;
+        height: 300px;
+        transition: 4s;
+      
+    }
+    .text{
+        display: none;
+        opacity: 3s;
+       
+    }
+    .joinBtn:hover .text{
+
+
+        display: flex;
+       transition: 4s;
+       opacity: 3s;
+    }
+    
+.buton{background-color: yellowgreen;
+    width: 100px;
+ height: 20px;
+ border-radius: 10px;
+ font: bold;
+ color: antiquewhite;
+ transition: 2s;
+
+}
+.buton:hover{background-color: red !important;
+    background-color: blue;
+    cursor: pointer;
+    transition: 3s;
+  
+
+}
+
+
+
+

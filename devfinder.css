@@ -5,21 +5,24 @@
 }
 
 .container {
-  background-color: navy;
+  background-color: rgb(2, 2, 48);
   width: 900px;
   height: 800px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-.card {
-  background-color: rgb(68, 42, 163);
+.card {background-color: rgb(23, 82, 82) ;
+  
   width: 600px;
   height: 400px;
 }
 .title {
   display: flex;
   height: 40px;
+  background-color:  rgb(2, 2, 48)
+
+
 }
 
 .devfinder {
@@ -29,7 +32,7 @@
   color: aliceblue;
 }
 .icon {
-  width: 50%;
+  width: 50%; color: aliceblue;
 
   display: flex;
   justify-content: flex-end;
@@ -37,13 +40,15 @@
 .header {
   height: 50px;
   border-radius: 20px;
-  background-color: azure;
-  margin-top: 20px;
+  background-color: rgb(23, 82, 28);
+  margin-top: 20px;margin-bottom: 20px;
   display: flex;
+  color: aliceblue;
 }
 .search-icon {
   width: 50%;
-  background-color: brown;
+  border-radius: 20px;
+  background-color:23 82;
   height: 100%;
 }
 .button {
@@ -70,7 +75,7 @@
 .img {
   width: 30%;
   height: 290px;
-  background-color: aquamarine;
+  background-color:  rgb(23, 82, 82);
 }
 .number {
   display: flex;
@@ -81,13 +86,14 @@
 .number1 {
   width: 100%;
   height: 110px;
-  background-color: yellow;
+  background-color: rgb(23, 82, 82) ;
 }
 .number3 {
   width: 100%;
   height: 72px;
   background-color: rgb(17, 12, 48);
   border-radius: 20px;
+  
 }
 .text{width: 100%;
     height: 36px;
@@ -95,6 +101,7 @@
     display: flex;
     justify-content: space-around;
     color: aliceblue;
+    margin-top: 10px;
 
 }
 .numeral{width: 100%;
@@ -114,11 +121,11 @@ margin-top: -10px;
 .number2 {
   width: 100%;
   height: 110px;
-  background-color: rgb(16, 77, 128);
+  background-color:  rgb(23, 82, 82);
 }
 .loc-not{width: 100%
     ;height: 50%;
-    background-color: red;
+    background-color: rgb(23, 82, 82);
     display: flex;
     justify-content: space-around;
 
@@ -135,7 +142,7 @@ margin-top: -10px;
 }
 .https-git{display: flex;
   justify-content: space-around;
-
+color: aliceblue;
 
 }
 .git{color: aliceblue;
@@ -154,13 +161,13 @@ margin-right: 28px;
 .the-octo {
   width: 100%;
   height: 70px;
-  background-color: rgb(150, 106, 140);
+  background-color: rgb(23, 82, 82));
   display: flex;
 }
 .the-octocat {
   width: 50%;
   height: 70px;
-  background-color: rgb(219, 32, 63);
+  background-color: rgb(23, 82, 82);
 }
 .p-theoctocat {
   font-size: 1.5rem;
@@ -169,7 +176,7 @@ margin-right: 28px;
   padding: 15px;
 }
 .join {
-  background-color: rgb(40, 136, 104);
+  background-color: rgb(23, 82, 82);
   width: 50%;
   height: 45px;
 }
