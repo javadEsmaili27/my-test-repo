@@ -75,7 +75,7 @@
 .img {
   width: 30%;
   height: 290px;
-  background-color:  rgb(23, 82, 82);
+  background-color:  rgb(21, 85, 85);
 }
 .number {
   display: flex;
@@ -86,12 +86,12 @@
 .number1 {
   width: 100%;
   height: 110px;
-  background-color: rgb(23, 82, 82) ;
+  background-color: rgb(26, 87, 87) ;
 }
 .number3 {
   width: 100%;
   height: 72px;
-  background-color: rgb(17, 12, 48);
+  background-color: rgb(27, 20, 71);
   border-radius: 20px;
   
 }
